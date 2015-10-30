@@ -1,4 +1,4 @@
-<?
+<?php
 require_once('index2.php');
 
 class test extends PHPUnit_framework_TestCase{

@@ -9,5 +9,12 @@ class test extends PHPUnit_framework_TestCase{
 	$resultado=$hw->informacion($parametro);
         $this->assertTrue($resultado==$parametro);
     }
+
+    public function testname2(){
+	$hw=new index();
+	$usuario="yo";
+	$resultado=$hw->prueba2($usuario);
+        $this->assertTrue($resultado);
+    }
 }
 ?>

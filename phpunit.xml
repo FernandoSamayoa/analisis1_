@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="test" file="/home/feer/practica_analisis/workspace/test.php" tests="1" assertions="1" failures="0" errors="0" time="0.002262">
+    <testcase name="testname" class="test" file="/home/feer/practica_analisis/workspace/test.php" line="5" assertions="1" time="0.002262"/>
+  </testsuite>
+</testsuites>
